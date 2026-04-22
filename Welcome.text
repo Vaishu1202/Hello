@@ -1,9 +1,0 @@
-Welcome to everyone
-" GITHUB TUTORIAL"
-After downloaded visual studio code and installed git app in system.
-Try using below commands in Command prompt to verify and get access to it.
-Open command prompt- type git
-It will confirm whether git has been successfully installed.
-Step 2: git config -- global user.name " "
-git config -- global user.email " "
-If anywhere you dont see that, git not initialised, use the command git init
